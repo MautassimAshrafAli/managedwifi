@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Downloads\Compressed\managedwifi\sourceCode\sourceCode\bin\Debug\ManagedWifi.dll
+C:\Users\Lenovo\Downloads\Compressed\managedwifi\sourceCode\sourceCode\bin\Debug\ManagedWifi.pdb
+C:\Users\Lenovo\Downloads\Compressed\managedwifi\sourceCode\sourceCode\obj\Debug\ManagedWifi.csprojAssemblyReference.cache
+C:\Users\Lenovo\Downloads\Compressed\managedwifi\sourceCode\sourceCode\obj\Debug\ManagedWifi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Compressed\managedwifi\sourceCode\sourceCode\obj\Debug\ManagedWifi.dll
+C:\Users\Lenovo\Downloads\Compressed\managedwifi\sourceCode\sourceCode\obj\Debug\ManagedWifi.pdb
